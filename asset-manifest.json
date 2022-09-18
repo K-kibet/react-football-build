@@ -1,0 +1,19 @@
+{
+  "main.css": "/react-football/static/css/main.b57b0a86.chunk.css",
+  "main.js": "/react-football/static/js/main.9638b800.chunk.js",
+  "main.js.map": "/react-football/static/js/main.9638b800.chunk.js.map",
+  "runtime~main.js": "/react-football/static/js/runtime~main.5ec31da4.js",
+  "runtime~main.js.map": "/react-football/static/js/runtime~main.5ec31da4.js.map",
+  "static/js/2.c9eef5a5.chunk.js": "/react-football/static/js/2.c9eef5a5.chunk.js",
+  "static/js/2.c9eef5a5.chunk.js.map": "/react-football/static/js/2.c9eef5a5.chunk.js.map",
+  "index.html": "/react-football/index.html",
+  "precache-manifest.1ea5329819d60d05e4ad3b98554d461a.js": "/react-football/precache-manifest.1ea5329819d60d05e4ad3b98554d461a.js",
+  "service-worker.js": "/react-football/service-worker.js",
+  "static/css/main.b57b0a86.chunk.css.map": "/react-football/static/css/main.b57b0a86.chunk.css.map",
+  "static/media/Bundesliga.png": "/react-football/static/media/Bundesliga.3e055fb4.png",
+  "static/media/Eredivisie.png": "/react-football/static/media/Eredivisie.07239886.png",
+  "static/media/LaLiga.png": "/react-football/static/media/LaLiga.2be24290.png",
+  "static/media/Ligue1.png": "/react-football/static/media/Ligue1.4b2af31f.png",
+  "static/media/PremierLeague.png": "/react-football/static/media/PremierLeague.2ea36f1c.png",
+  "static/media/SerieA.png": "/react-football/static/media/SerieA.3ee74dc2.png"
+}
